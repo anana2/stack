@@ -1,0 +1,5 @@
+stack
+
+# Testscript output directory (can be symlink).
+#
+test-stack

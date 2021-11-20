@@ -1,0 +1,7 @@
+project = stack
+
+using version
+using config
+using test
+using install
+using dist
