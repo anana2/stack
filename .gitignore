@@ -1,11 +1,8 @@
-.bdep/
+.vscode/
+.xmake/
 
-# Local default options files.
-#
-.build2/local/
+build/
 
-# Compiler/linker output.
-#
 *.d
 *.t
 *.i
